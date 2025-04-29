@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+python-jose
+passlib[bcrypt]
+python-dotenv
+psycopg2
+# Add any other dependencies you need
+python-multipart
